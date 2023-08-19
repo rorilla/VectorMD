@@ -54,10 +54,6 @@ results = medicalDB.query("HACP empiric tx regimen duration")
 
 We welcome contributions! If you'd like to help improve `VectorMD`, please fork the repository and submit a pull request.
 
-## Contribution
-
-Contributions are always welcome! If you'd like to help improve VectorMD, please fork the repository and submit a pull request.
-
 ## License
 
 [Apache-2.0 license](LICENSE)
