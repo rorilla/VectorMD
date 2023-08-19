@@ -57,3 +57,8 @@ We welcome contributions! If you'd like to help improve `VectorMD`, please fork 
 ## License
 
 [Apache-2.0 license](LICENSE)
+
+## Citation
+
+[![DOI](https://zenodo.org/badge/680496506.svg)](https://zenodo.org/badge/latestdoi/680496506)
+
