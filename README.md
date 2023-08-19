@@ -41,15 +41,13 @@ pip install VectorMD
 Use VectorMD directly within your Python scripts:
 
 ```python
-from vmd import VectorMD
+from vectormd import VectorMD
 
 # Initialize with your markdown file
-medicalDB = VectorMD()
-medicalDB.setup("path_to_medical_markdown.md")
+medicalDB = VectorMD("path_to_medical_markdown.md")
 
 # Query
 results = medicalDB.query("HACP empiric tx regimen duration")
-print(results)
 ```
 
 ## Contributing
